@@ -39,7 +39,7 @@ def generate_index(directory, current_path=''):
         <div class="container mt-5">
             <div class="row">
                 <img src="https://gt-scripts.github.io/assets/branding/logo365.png" alt="mri logo" width="32" height="32" />
-                <h1 class="mb-4" style="line-height: 32px; padding-left: 5px;">mri Qbox - Lista de Assets</h1>
+                <h1 class="mb-4" style="line-height: 32px; padding-left: 5px;">GT Scripts - Lista de Assets</h1>
             </div>
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
